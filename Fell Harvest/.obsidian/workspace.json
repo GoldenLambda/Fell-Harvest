@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/Accorda/Nadabaixo.md",
+                "file": "Worlds/Accorda/Accorda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nadabaixo"
+              "title": "Accorda"
             }
           }
         ],
@@ -209,11 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9938bb5a1a9150d5",
+  "active": "8c3b48d5277f315e",
   "lastOpenFiles": [
-    "Worlds/Accorda/Accorda.md",
-    "Worlds/Accorda/Nadabaixo.md",
     "Worlds/Accorda/Abora Superstructure.md",
+    "Worlds/Accorda/Nadabaixo.md",
+    "Worlds/Accorda/Accorda.md",
     "Worlds/Accorda/The Impostor Moon.md",
     "Hastur.md",
     "Cult of the Sign.md",
