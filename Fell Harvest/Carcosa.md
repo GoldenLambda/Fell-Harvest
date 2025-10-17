@@ -1,0 +1,4 @@
+*"It was my predecessor's opinion that the mysteries of this play hinted at the secret history of its commission. This is folly. Carcosa has no history. There is no city without the sun, and no sun without the city."*
+- Arda Bayle, Librarian, Carillon College
+ 
+Carcosa, the city and the star, is the home and fiefdom of [[Hastur]] on the astral plane. Its spires and amphitheatres are everywhere suffused with the overwhelming light of its lord, bleeding out into its bordering realities. Where Hastur's attentions are most focused, Carcosa can sometimes be seen as a wandering yellow star in the night sky.

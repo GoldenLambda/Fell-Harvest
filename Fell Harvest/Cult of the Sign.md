@@ -1,0 +1,1 @@
+The Cult of the Sign are worshippers of [[Hastur]], who seek to expand the influence of their king by any means necessary. They are based out of the dread city [[Carcosa]], sailing out of the astral plane on spelljammers such as [[The Harvester]] to do their lord's bidding.
