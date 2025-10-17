@@ -39,10 +39,14 @@
             "id": "8c3b48d5277f315e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Accorda/Nadabaixo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nadabaixo"
             }
           }
         ],
@@ -205,11 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c3b48d5277f315e",
+  "active": "9938bb5a1a9150d5",
   "lastOpenFiles": [
-    "Abora Superstructure.md",
     "Worlds/Accorda/Accorda.md",
-    "The Impostor Moon.md",
+    "Worlds/Accorda/Nadabaixo.md",
+    "Worlds/Accorda/Abora Superstructure.md",
+    "Worlds/Accorda/The Impostor Moon.md",
     "Hastur.md",
     "Cult of the Sign.md",
     "Debug/Welcome.md",
